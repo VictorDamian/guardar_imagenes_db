@@ -1,0 +1,30 @@
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe.config
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\bin\Debug\SaveIMG.pdb
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Form1.resources
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Properties.Resources.resources
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.exe
+C:\Users\Dantes\source\repos\SaveIMG\SaveIMG\obj\Debug\SaveIMG.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe.config
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Form1.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe.config
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\bin\Debug\SaveIMG.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Form1.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\Practicas_C#\SaveIMG\SaveIMG\obj\Debug\SaveIMG.pdb
